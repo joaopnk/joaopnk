@@ -1,6 +1,6 @@
-📌 João Pedro, 20;
-👨‍🎓 Tecn. em desenvolvimento de sistemas;
-👨‍💻 8SYS Desenvolvimento de sistemas LTDA;
+<p>📌 João Pedro, 20;</p><br>
+<p>👨‍🎓 Tecn. em desenvolvimento de sistemas;</p><br>
+<p>👨‍💻 8SYS Desenvolvimento de sistemas LTDA;</p><br>
 
 
 <div align="center">
