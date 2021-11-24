@@ -1,7 +1,7 @@
-<p>📌 João Pedro, 20;</p><br>
-<p>👨‍🎓 Tecn. em desenvolvimento de sistemas;</p><br>
-<p>👨‍💻 8SYS Desenvolvimento de sistemas LTDA;</p><br>
-
+<p>📌 João Pedro, 20;<br>
+👨‍🎓 Tecn. em desenvolvimento de sistemas;<br>
+👨‍💻 8SYS Desenvolvimento de sistemas LTDA;</p>
+<hr>
 
 <div align="center">
   <a href="https://github.com/joaopnk">
