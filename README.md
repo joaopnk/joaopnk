@@ -1,5 +1,5 @@
 <p>📌 João Pedro, 20;<br>
- Dev. FullStack Jr<br:
+ Dev. FullStack Jr<br>
 👨‍🎓 Tecn. em desenvolvimento de sistemas;<br>
   👨‍💻 <a href="https://8sys.com.br/" target="_blank" >8SYS</a> Desenvolvimento de sistemas LTDA;</p>
  
