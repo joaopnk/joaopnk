@@ -12,7 +12,8 @@
 
 <h3>My Experiences 💼</h3>
 <div>
-  <li><a href="https://8sys.com.br/" target="_blank" >8SYS</a> Desenvolvimento de sistemas LTDA. (11/2021 - Current)</li>
+  <li><a href="https://mylims.net/labsoft/" target="_blank" >Labsoft</a> (10/2022 - Current)</li>
+  <li><a href="https://8sys.com.br/" target="_blank" >8SYS</a> Desenvolvimento de sistemas LTDA (11/2021 - 10/2022)</li>
 </div>
 
 <h3>Experiences with languages 💻</h3>
