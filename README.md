@@ -5,7 +5,7 @@
 <h3>About Me 🚀</h3>
 <div>
   <ul>
-    <li>🌱 I'm a Full Stack jr developer with systems development technician</li>
+    <li>🌱 I'm a front end jr developer with systems development technician</li>
     <li>  👨‍💻 Passionate about web development and always looking to learn new technologies</li>
   </ul>
 </div>
